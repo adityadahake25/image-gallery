@@ -1,7 +1,7 @@
 # Image Gallery with Automatic Slideshow
 
 A frontend web project built using HTML, CSS, and JavaScript that implements an image gallery along with an automatic slideshow feature using JavaScript timing functions and DOM manipulation.
-
+ 
 ---
 
 ## Project Overview
