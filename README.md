@@ -2,7 +2,7 @@
 
 A frontend web project built using HTML, CSS, and JavaScript that implements an image gallery along with an automatic slideshow feature using JavaScript timing functions and DOM manipulation.
  
------
+---
 
 ## Project Overview
 This project focuses on creating a visually structured image gallery and an automated slideshow section. JavaScript is used to dynamically switch images at fixed intervals, demonstrating core concepts such as event handling, DOM selection, and timing-based logic.
